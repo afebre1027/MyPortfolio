@@ -12,3 +12,6 @@
     width: 100%;
     box-shadow: 12px 12px 2px 1px rgba(47, 47, 53, 0.2);
 }
+.pure-menu-link {
+    color: #9b6603d8;
+}
