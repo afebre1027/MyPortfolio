@@ -1,17 +1,55 @@
-.about-img {
-   width: 100%;
-   height: 100%;
-   object-fit: contain;
+/* nav bar */
+.pure-menu-link {
+  color: #9b6603d8;
 }
+
+/* about me splash section */
+.about-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* my work section */
 #myWork {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
 }
 .work-img {
-    width: 100%;
-    box-shadow: 12px 12px 2px 1px rgba(47, 47, 53, 0.2);
+  width: 100%;
+  box-shadow: 12px 12px 2px 1px rgba(47, 47, 53, 0.2);
 }
-.pure-menu-link {
-    color: #9b6603d8;
+
+/* my past work history section */
+.history-h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#careerHistory {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* cards holding work history */
+.w3-card-4 {
+  margin: 10px;
+}
+.w3-container h2 {
+  color: #9b6603d8;
+  border-bottom: 1px solid #9b6603d8;
+}
+.w3-container h5 {
+  color: #9b6603d8;
+  border-top: 1px solid #9b6603d8;
+}
+.history-title {
+  color: white;
+  margin-top: 10px;
+  border-bottom: 1px solid white;
+}
+.pure-g {
+  display: flex;
+  justify-content: space-around;
 }
