@@ -53,3 +53,39 @@
   display: flex;
   justify-content: space-around;
 }
+
+/* media query */
+/* Smartphones (portrait and landscape) ----------- */
+@media screen and (min-device-width: 320px) and (max-device-width: 571px) {
+  .home-menu {
+    font-size: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+  }
+  #myWork {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  #careerHistory {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 150%;
+  }
+  .footer {
+    position: relative;
+  }
+  .splash-subhead {
+    font-size: 60%;
+  }
+  .splash a {
+    font-size: 10;
+  }
+  .ribbon {
+    margin: 0px;
+    padding: 0px;
+  }
+}
