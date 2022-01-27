@@ -1,0 +1,13 @@
+.about-img {
+   width: 100%;
+   height: 100%;
+   object-fit: contain;
+}
+.myWork {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.work-img {
+    width: 100%;
+}
