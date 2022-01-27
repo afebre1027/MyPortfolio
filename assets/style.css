@@ -3,11 +3,12 @@
    height: 100%;
    object-fit: contain;
 }
-.myWork {
+#myWork {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
 }
 .work-img {
     width: 100%;
+    box-shadow: 12px 12px 2px 1px rgba(47, 47, 53, 0.2);
 }
