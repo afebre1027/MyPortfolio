@@ -4,11 +4,6 @@
 }
 
 /* about me splash section */
-.about-img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-}
 
 /* my work section */
 #myWork {
@@ -83,9 +78,5 @@
   }
   .splash a {
     font-size: 10;
-  }
-  .ribbon {
-    margin: 0px;
-    padding: 0px;
   }
 }
