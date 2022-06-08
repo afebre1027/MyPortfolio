@@ -1,0 +1,46 @@
+      <div className="content">
+        <h2 className="content-head is-center">my work</h2>
+        <div id="myWork" className="pure-g">
+          <div className="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+            <a href="https://afebre1027.github.io/run-buddy/"></a>
+            <h3 className="content-subhead">Run Buddy</h3>
+            <p>
+              In this application, it demonstrates my first uses of CSS and
+              HTML. Run Buddy is a fitness program that is all virtual.
+            </p>
+          </div>
+          <div className="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+            <a href="https://afebre1027.github.io/food-drink-app/"></a>
+            <h3 className="content-subhead">Food & Drink</h3>
+            <p>
+              This is a application for random food and drink recipes. Both run
+              off of third party APIs.
+            </p>
+          </div>
+          <div className="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+            <a href="https://sheltered-escarpment-82772.herokuapp.com/"></a>
+            <h3 className="content-subhead">Note Taker</h3>
+            <p>
+              Note Taker is a application that keeps track of all your notes.
+              This was created with Express and is deployed thru heroku.
+            </p>
+          </div>
+          <div className="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+            <a href="https://github.com/afebre1027/OOP-TDD-teamGen#readme"></a>
+            <h3 className="content-subhead">Team Member Builder</h3>
+            <p>
+              Here I created a team member builder using Object-Oriented
+              Programming and Test-Driven Development
+            </p>
+          </div>
+          <div className="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+            <a href="https://the-3-codeteers.herokuapp.com/">codeteers</a>
+            <h3 className="content-subhead">The 3 Codeteers!</h3>
+            <p>
+              In this team project we creaed a game night theme application that
+              lets you create a account, comment, and keep track of you high
+              scores.
+            </p>
+          </div>
+        </div>
+      </div>
